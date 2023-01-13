@@ -1,3 +1,7 @@
 {
-	"skills": 
+	"skills": ["postman",
+		  "charles",
+		  "JS",
+		  "SQL"]
+
 }
